@@ -2,6 +2,8 @@
 
 > Browser based design app for t-shirts via Firebase and NuxtJS.
 
+![demo](https://media.giphy.com/media/1d5Kjfl2o5hx7iYsx1/giphy.gif)
+
 ## Build Setup
 
 ``` bash
