@@ -4,6 +4,8 @@
 
 ![demo](https://media.giphy.com/media/1d5Kjfl2o5hx7iYsx1/giphy.gif)
 
+You can visit [Demo site](https://kimi-dakeno-mosa-t-aqxd1elah.now.sh).
+
 ## Build Setup
 
 ``` bash
